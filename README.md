@@ -18,3 +18,8 @@ First import all the useful libraries for the code. The code starts with making 
 **NOTE:** The completion of synthesis and implentation for every design may take a while depending on the number of files and size.
 
 After generating all the reports, you can extract the required data for each design and append them in lists. These lists can be used to create a datatable for every design. You can also provide the headings for the table. At last, download the datatable in .csv file format.
+
+
+The Datatable obtained looks like this: 
+![image](https://user-images.githubusercontent.com/94683003/221362528-81d27e4f-e18a-4bf7-a465-05f4cc1a9dcc.png)
+
