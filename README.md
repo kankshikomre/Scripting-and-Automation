@@ -6,7 +6,7 @@ There are two files present for scripting: **add_tcl.tcl** and **run_tcl.tcl**
 
 **add_tcl.tcl** creates a new project Automation in Xilinx vivado with board part Basys3. The language of sources is set as SystemVerilog. Then all the files with format `top_modules` in directory Modules are added to the project.
 
-**"run_tcl.tcl"** opens the project and sets one of the files as top files. Then it starts to synthesize the top file which continues with the implementation. After implementation, power.txt, timing.txt and utilization.txt reports are generated for the top file.
+**run_tcl.tcl** opens the project and sets one of the files as top files. Then it starts to synthesize the top file which continues with the implementation. After implementation, power.txt, timing.txt and utilization.txt reports are generated for the top file.
 
 ## Automation
 The programming language used here for automation is python.
